@@ -1,4 +1,4 @@
-# Basic_Latin_minimum_kerning_pairs
+# Read Me!
 A text string to test fitting and kern Basic Latin
 
 This is a work in progress and I might come back to update it at some point. It is a cleaned up version of a text string that I use to test fitting and kern fonts. It is best suited for sans designs (texts and display) but with alterations and depending on the design it can work with serifs as well. 
