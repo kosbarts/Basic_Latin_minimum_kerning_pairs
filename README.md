@@ -1,9 +1,7 @@
 # Read before kerning!
 A text string to test fitting and kern Basic Latin.
 
-This is a work in progress and I might come back to update it at some point. It is a cleaned up version of a text string that I use to test fitting and kern fonts. It is best suited for sans designs (texts and display) but with alterations and depending on the design it can work with serifs as well. 
-
-The Text file includes strings that try to produce the most common - and important - kerning pairs in context for the Basic Latin character set. Provided that you choose your kerning classes wisely it aspires to give you a small in lenght but quite comprehensive set of words and examples which will help you kern:
+The Text file includes strings that try to produce the most common - and important - kerning pairs in context for the Basic Latin character set (+ some Western/Eastern letters and diacritics). Provided that you choose your kerning classes wisely it aspires to give you a small in lenght but quite comprehensive set of words and examples which will help you kern:
 
 - Uppercase to Uppercase
 - Uppercase to punctuation
@@ -20,5 +18,4 @@ Remember: You should be done with your fitting before kerning. The fact that you
 
 In some cases (pun intended) you might have case sensitive forms, so do check how these dashes look when you switch your case feature on.
 
-The next update will include Vietnamese.
-Greek version is also on the works. 
+This is a work in progress and I might come back to update it at some point. It is a cleaned up version of a text string that I use to test fitting and kern fonts. It is best suited for sans designs (texts and display) but with alterations and depending on the design it can work with serifs as well. The next update will include Vietnamese. Greek version is also on the works. 
