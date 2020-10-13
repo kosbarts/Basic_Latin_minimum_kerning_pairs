@@ -1,4 +1,4 @@
-# Read before kerning!
+# Read before you kern!
 A text string to test fitting and kern Basic Latin.
 
 The Text file includes strings that try to produce the most common - and important - kerning pairs in context for the Basic Latin character set (+ some Western/Eastern letters and diacritics). Provided that you choose your kerning classes wisely it aspires to give you a small in lenght but quite comprehensive set of words and examples which will help you kern:
