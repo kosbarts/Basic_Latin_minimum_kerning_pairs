@@ -15,3 +15,10 @@ The Text file includes strings that try to produce the most common - and importa
 - numerals to letters (limited set)
 
 There are assumptions for the design (i.e. bdpq are pressumed to belong to the same kerning class as o, however, it includes a and g in case the design features double story versions. In case your bdpq vary significantly from the o then you should use search/replace in the kern strings and just create the required ones. 
+
+The fact that you might see letter combinations does not mean you need to kern everything. Depending on the design, the intended use, and your own personal preference you should make the decision to kern all of the punctuation to letters, some, or none of it. The same applies for the numerals. A design that features tabular numerals shouldn't have any kerning - but hey, you know all this, why am I even telling you!
+
+In some cases (pun intended) you might have case sensitive forms, so do check how these dashes look when you switch your case feature on.
+
+The next update will include Vietnamese.
+Greek version is also on the works. 
